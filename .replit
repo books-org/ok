@@ -1,0 +1,2 @@
+run = "npx node@16.6 index.js"
+language = "nodejs"
